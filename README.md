@@ -14,7 +14,7 @@ This simple HTML project provides a basic sign-in page template for use in web a
 
 ## Structure
 
-The `signin.html` file includes the following structure:
+The `index.html` file includes the following structure:
 
 - **Header:** Contains the title of the sign-in page.
 - **Form:** Allows users to enter their username/email and password.
